@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    background-color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+p[value="1"]{text-align: center;}
+
+img{
+    height: 300px;
+    width: 300px;
+}
+
+footer{
+    text-align: center;
+    background-color: pink;
+}
+
